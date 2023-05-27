@@ -130,6 +130,7 @@
     <Content Include="Images\p7.jpg" />
     <Content Include="Images\Peru.png" />
     <Content Include="Images\Testeo1.jpg" />
+    <Content Include="Images\Ventas.png" />
     <Content Include="MenuPrincipal.aspx" />
     <Content Include="Transacciones\Orden.aspx" />
     <Content Include="Web.config" />

@@ -4,13 +4,9 @@
       url="~/MenuPrincipal.aspx">
     
     
-    <siteMapNode title="Consultas" 
+    <siteMapNode title="Mensajes" 
          description="Consultas del sistema"
          url="~/Consultas/Consultas.aspx">
-     </siteMapNode>
-    <siteMapNode title="Transacciones" 
-         description="Transacciones (Maestro-Detalle)" 
-         url="~/Transacciones/Transacciones.aspx">
      </siteMapNode>
 	   <siteMapNode title="Salir"
          description="Cerrar Sesion"
